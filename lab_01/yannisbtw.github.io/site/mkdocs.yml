@@ -1,0 +1,13 @@
+site_name: Сайт Ломаченко Яна
+site_url: https://yannisbtw.github.io/
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+  - Проекты: projects.md
+  - Лабораторные работы:
+      - 1 семестр: labs/index.md
+      - 2 семестр: labs/index2.md
+  - Контакты: contacts.md
+
+theme:
+    name: simple-blog
